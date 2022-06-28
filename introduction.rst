@@ -9,7 +9,7 @@
 Introduction
 ============
 
-The problem and the solution
+The problem and my solution
 ------------------------------
 
 The problem it solves
